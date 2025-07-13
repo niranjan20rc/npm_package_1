@@ -2,7 +2,7 @@
 A random number generator
 
 ## Installation
-Run `npm i getrandom`
+Run `npm i get-randomizer`
 
 Use:
 
