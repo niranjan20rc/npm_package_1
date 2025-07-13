@@ -10,7 +10,9 @@ Use:
 
 import getRandom from "get-randomizer";
 
-console.log(getRandom(1,5));
+console.log(getRandom(5,10));
+
+Output will be: 5, 6, 7, 8, or 9
 
 
 ````

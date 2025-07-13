@@ -1,5 +1,7 @@
-const getRandom=(min=0,max=100)=>{
-    return Math.round(Math.random()*(max-min)+max);
+function getRandom(min = 0, max = 100) {
+  const a = Math.ceil(min);
+  const b = Math.floor(max);
+  return Math.floor(Math.random() * (b - a)) + a;
 }
 
 export default getRandom;
