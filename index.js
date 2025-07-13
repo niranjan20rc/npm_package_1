@@ -3,3 +3,13 @@ const getRandom=(min=0,max=100)=>{
 }
 
 export default getRandom;
+
+
+
+/*
+
+import getRandom from "get-randomizer";
+
+console.log(getRandom(1,5));
+
+*/

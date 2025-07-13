@@ -7,9 +7,11 @@ Run `npm i getrandom`
 Use:
 
 ````
-import getRandom form 'getrandom';
 
-getRandom(1,10);
+import getRandom from "get-randomizer";
+
+console.log(getRandom(1,5));
+
 
 ````
 ## Parameters
